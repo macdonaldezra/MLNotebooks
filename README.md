@@ -1,3 +1,3 @@
 MLNotebooks
 -----------
-A collection of Machine Learning Notebooks developed within the past few years.
+A collection of Notebooks that include implementations of various artificial intelligence algorithms.
